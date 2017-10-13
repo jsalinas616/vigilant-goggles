@@ -8,10 +8,8 @@
   <li>a piece of <a href="https://goo.gl/images/HCu8ai">pickled daikon</a></li>
   <li>toothpick</li>
   </ol>
-  
-    <p>Follow these steps</p>
-  
-<ul>
+  <p>Follow these steps</p>
+  <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
   <img src="IMG_0023 (1).jpg"/>
   <li>with your knife use the katsuamuki technique to carefully remove the outer skin of the daikon; creating a smooth and even surface</li>

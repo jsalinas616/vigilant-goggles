@@ -25,9 +25,9 @@ lay the sheet on the cutting board horizontally, on the right of the sheet cut a
   <img src="IMG_0028.jpg"/>
   <li>following the angle of the triangle, find a point 3/4 of the way to the far edge and make a slice towards you</li>
   <img src="IMG_0029.jpg"/>
-  <li>continue doing this every few centimeters, around halfway you should start to transition towards a perpendicular cut, continue this cut until you reach the end of the sheet</li>
+  <li>continue doing this every few centimeters, around midway you should start to transition towards a perpendicular cut, continue this cut until you reach the end of the sheet</li>
   <img src="IMG_0030.jpg"/>
-  <li>place the pickled daikon longways on the far left of the folded sheet, making sure it's even with the edge closest to you </li>
+  <li>place the pickled daikon longways on the far left of the folded sheet, making sure it's even with the side closest to you </li>
   <img src="IMG_0032.jpg"/>
   <li>tightly roll the sheet towards you making sure the far edge remains even</li>
   <img src="IMG_0033.jpg"/>
@@ -37,6 +37,3 @@ lay the sheet on the cutting board horizontally, on the right of the sheet cut a
   <img src="IMG_0035.jpg"/>
   <img src="IMG_0036.jpg"/>
 </ul>
-
-
-

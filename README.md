@@ -10,6 +10,7 @@
   </ol>
   
   ### Follow these steps
+  
 <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
   <img src="IMG_0023 (1).jpg"/>
@@ -35,5 +36,5 @@ lay the sheet on the cutting board horizontally, on the right of the sheet cut a
   <img src="IMG_0034.jpg"/>
   <li>and voila</li>
   <img src="IMG_0035.jpg"/>
-  <img src="IMG_0036.jpg"/>
+  <img src="IMG_00371.jpg"/>
 </ul>

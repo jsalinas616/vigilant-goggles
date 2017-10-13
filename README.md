@@ -8,9 +8,11 @@
   <li>a piece of <a href="https://goo.gl/images/HCu8ai">pickled daikon</a></li>
   <li>toothpick</li>
   </ol>
- ### Follow these steps
+
+### Follow these steps
  <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
+  <img src="IMG_0023.jpg"/>
 </ul>
   You can use the [editor on GitHub](https://github.com/jsalinas616/vigilant-goggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 

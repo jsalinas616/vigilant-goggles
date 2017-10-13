@@ -1,5 +1,18 @@
 ## Advanced Garnish Making
-You can use the [editor on GitHub](https://github.com/jsalinas616/vigilant-goggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### How to make a flower garnish using a daikon radish
+<p> what you need</>
+  <ol>
+  <li>cutting board</li>
+  <li>a sharp knife</li>
+  <li><a href="https://goo.gl/images/3ZWxYm">large daikon radish</a></li>
+  <li>a piece of <a href="https://goo.gl/images/HCu8ai">pickled daikon</a></li>
+  <li>toothpick</li>
+  </ol>
+ ### Follow these steps
+ <ul>
+  <li>Slice daikon into 5 inch cyclinders</li>
+</ul>
+  You can use the [editor on GitHub](https://github.com/jsalinas616/vigilant-goggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

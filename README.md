@@ -9,7 +9,7 @@
   <li>toothpick</li>
   </ol>
   
-   <p>Follow these steps</p>
+    <p>Follow these steps</p>
   
 <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
@@ -36,5 +36,5 @@ lay the sheet on the cutting board horizontally, on the right of the sheet cut a
   <img src="IMG_0034.jpg"/>
   <li>and voila</li>
   <img src="IMG_0035.jpg"/>
-  <img src="IMG_00371.jpg"/>
+  <img src="IMG_00372.jpg"/>
 </ul>

@@ -1,6 +1,6 @@
 ## Advanced Garnish Making
 ### How to make a flower garnish using a daikon radish
-<p> what you need</>
+<p> here's what you need<p/>
   <ol>
   <li>cutting board</li>
   <li>a sharp knife</li>
@@ -13,7 +13,22 @@
  <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
   <img src="IMG_0023.jpg"/>
+  <li>with your knife use the katsuamuki technique to carefully remove the outer skin of the daikon; creating a smooth and even surface</li>
+  <li>use the katsuramuki technique to create a thin sheet of daikon, 8-10 inches in length</li>
+  <li>
+lay the sheet on the cutting board horizontally,on the right of the sheet cut a right triangle with the midpoint of the sheet being the top of the triangle</li>
+  <li>Fold the sheet away from you</li>
+  <li>following the angle of the triangle, find a point 3/4 of the way to the faredge and make a slice towards you</li>
+  <li>continue doing this every few centimeters, around halfway you should start to transition towards a perpendicular cut, continue this cut until you reach the end of the sheet</li>
+  <li>place the pickled daikon longways on the far left of the folded sheet, making sure it's even with the edge closest to you </li>
 </ul>
+
+
+
+
+
+
+
   You can use the [editor on GitHub](https://github.com/jsalinas616/vigilant-goggles/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

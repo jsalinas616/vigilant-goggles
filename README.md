@@ -9,7 +9,7 @@
   <li>toothpick</li>
   </ol>
   
-  ### Follow these steps
+  # Follow these steps
   
 <ul>
   <li>Slice daikon into 5 inch cyclinders</li>

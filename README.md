@@ -8,13 +8,14 @@
   <li>a piece of <a href="https://goo.gl/images/HCu8ai">pickled daikon</a></li>
   <li>toothpick</li>
   </ol>
-
 ### Follow these steps
  <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
   <img src="IMG_0023.jpg"/>
   <li>with your knife use the katsuamuki technique to carefully remove the outer skin of the daikon; creating a smooth and even surface</li>
+  <img src="IMG_0024.jpg"/>
   <li>use the katsuramuki technique to create a thin sheet of daikon, 8-10 inches in length</li>
+  <img src="IMG_0025.jpg"/>
   <li>
 lay the sheet on the cutting board horizontally,on the right of the sheet cut a right triangle with the midpoint of the sheet being the top of the triangle</li>
   <li>Fold the sheet away from you</li>

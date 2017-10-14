@@ -22,13 +22,13 @@ lay the sheet on the cutting board horizontally, on the right hand side of the s
   <img src="IMG_0027.jpg"/>
   <li>Fold the sheet away from you</li>
   <img src="IMG_0028.jpg"/>
-  <li>looking at where you just cut the triangle, find a point 3/4 of the way up and cut towards you, following the angle that the sheet of daikon provi</li>
+  <li>looking at where you just cut, find a point 3/4 of the way up and slice towards you, following the angle that the sheet of daikon provides</li>
   <img src="IMG_0029.jpg"/>
   <li>continue doing this every few centimeters, around midway you should start to transition towards a perpendicular cut, continue this cut until you reach the end of the sheet</li>
   <img src="IMG_0030.jpg"/>
-  <li>place the pickled daikon longways on the far left of the folded sheet, making sure it's even with the side closest to you </li>
+  <li>on the left hand side place the pickled daikon parallel to your cuts, making sure it's even with the side closest to you </li>
   <img src="IMG_0032.jpg"/>
-  <li>tightly roll the sheet towards you, at some point it may be easier to pick it up and roll it in your hands</li>
+  <li>tightly roll the sheet to the right making sure the unfolded edge stays even, at some point it may be easier to pick up the sheet and roll it in your hands</li>
   <img src="IMG_0033.jpg"/>
   <li>push toothpick through the base</li>
   <img src="IMG_0034.jpg"/>

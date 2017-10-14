@@ -12,7 +12,7 @@
   <ul>
   <li>Slice daikon into 5 inch cyclinders</li>
   <img src="IMG_0023 (1).jpg"/>
-  <li>with your knife, use the katsuamuki technique to carefully remove the outer skin of the daikon; creating a smooth and even surface</li>
+  <li>with your knife, use the <a href="www.savoryjapan.com/learn/techniques/katsuramuki.html"></a>katsuamuki technique to carefully remove the outer skin of the daikon; creating a smooth and even surface</li>
   <img src="IMG_00241.jpg"/>
   <li>use the same technique to create a thin sheet of daikon, 8-10 inches in length</li>
   <img src="IMG_0025.jpg"/>
